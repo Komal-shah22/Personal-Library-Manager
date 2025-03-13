@@ -1,5 +1,5 @@
 def main():
-    print("Hello from library-manegment-system!")
+    print("Hello from library-managment-system!")
 
 
 if __name__ == "__main__":
