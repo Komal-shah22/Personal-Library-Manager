@@ -1,16 +1,1 @@
-[
-    {
-        "title": "Sahih al-Bukhari",
-        "author": "Imam Muhammad ibn Ismail al-Bukhari",
-        "year": 0,
-        "genre": "Hadith (Sayings and Actions of Prophet Muhammad PBUH)",
-        "read": true
-    },
-    {
-        "title": "The Holy Quran",
-        "author": "Prophet Muhammad (PBUH)",
-        "year": 0,
-        "genre": "Religious, Spiritual, Guidance",
-        "read": true
-    }
-]
+[{"Title": "komal", "Author": "fasih", "Year": 2027, "Genre": "love", "Read": true}, {"Title": "komal", "Author": "fasih", "Year": 2025, "Genre": "love", "Read": false}, {"Title": "rimsha", "Author": "farooq", "Year": 2025, "Genre": "6789", "Read": true}]
