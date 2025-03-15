@@ -173,9 +173,3 @@ if menu == "📊 Statistics":
                 st.markdown("---")
 
 
-
-
-
-
-
-
